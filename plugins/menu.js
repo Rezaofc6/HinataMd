@@ -53,7 +53,7 @@ Hai, *%name!*
 *Fitur:* %totalfeatures command
 
 %readmore
-*Support me:* _https://instagram.com/itz.reza_official__
+*Support me:* https://instagram.com/itz.reza_official_
 *Note:*
 _Jika Respon Tidak Muncul Kemungkinan Terjadi Error_
 `.trimStart(),
