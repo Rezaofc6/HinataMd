@@ -360,9 +360,9 @@ global.htjava = '⫹⫺' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎ Hinata Md\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎ EzaBot-MD\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 global.packname = 'Created By'
-global.author = "Hinata-Md X Wudysoft"
+global.author = "EzaBot-MD X Rezaofc"
 global.multiplier = 69 // The higher, The harder levelup
 
 /*============== ERR ==============*/
@@ -371,7 +371,7 @@ global.wait = 'Wait...'
 global.render = 'Render...'
 global.webs = 'https://s.id/Cerdasin62/'//Your Website
 global.logo = "https://i.pinimg.com/564x/1d/10/8e/1d108e56fb96be61d9b48f7e17dd95b7.jpg"//Your logo
-global.gcwangsaf = "https://chat.whatsapp.com/HAuQGhEBwqFK8CzrrYOwLq"//Link Group whatsapp
+global.gcwangsaf = "https://chat.whatsapp.com/BCgUSCxQltq8SwcpJe1tDf"//Link Group whatsapp
 
 /*============== PAYMENT ==============*/
 global.saweria = "-"// website saweria.co
