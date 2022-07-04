@@ -73,14 +73,14 @@ let handler = async (m, { conn, usedPrefix, __dirname, text, command }) => {
 ⮕ ${groupsIn.length - groupsIn.length} - Groups Left
 ⮕ ${chats.length - groupsIn.length} - Personal Chats
 ⮕ ${chats.length} - Total Chats
-`.trim(), './media/botinfo.jpg', 'https://github.com/FahriAdison/Sad-Multi-Device', 'ʙᴏᴛ sᴄʀɪᴩᴛ', null, null, [
+`.trim(), './media/botinfo.jpg', 'https://github.com/Rezaofcbotmd', 'ʙᴏᴛ sᴄʀɪᴩᴛ', null, null, [
 [`ᴏᴡɴᴇʀ`, `${usedPrefix}owner`],
 [`ᴅᴏɴᴀᴛᴇ`, `${usedPrefix}donate`]
 ], m, {asLocation: true})
 }
 handler.help = ['botinfo']
 handler.tags = ['info']
-handler.command = /^(botinfo|bot|info|bi)$/i
+handler.command = /^(botinfo|info)$/i
 
 export default handler
 
