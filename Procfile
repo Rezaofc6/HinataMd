@@ -1,1 +1,1 @@
-web: node . --server1
+web: node . --server
