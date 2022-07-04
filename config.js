@@ -7,7 +7,6 @@ import moment from 'moment-timezone'
 /**Owner number**/
 global.owner = [
   ['6281515696780', '️EzaBot-MD', true],
-  ['0', '️Whatsapp', true]
   ['6289606790112', '️RezaOfc', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
