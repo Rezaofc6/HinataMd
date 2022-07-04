@@ -50,6 +50,10 @@ https://github.com/Fokusdotid
 
 *❉ AmmarBN:*
 https://github.com/AmmarrBN
+
+*❉ AmmarBN:*
+https://github.com/Rezaofc
+https://github.com/Rezaofcbotmd
 `
 conn.reply(m.chat, tqto, m, { contextInfo: { externalAdReply: {
             title: `${htjava} ${namebot}`,
