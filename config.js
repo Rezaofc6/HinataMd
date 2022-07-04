@@ -6,13 +6,13 @@ import moment from 'moment-timezone'
 
 /**Owner number**/
 global.owner = [
-  ['6282195322106', '️Owner1 Hinata-Md', true],
-  ['6282195322106', '️Owner2 Hinata-Md', true],
-  ['6282195322106', '️Owner3 Hinata-Md', true],
-  ['6282195322106', '️Owner4 Hinata-Md', true],
-  ['6282195322106', '️Owner5 Hinata-Md', true],
-  ['6282195322106', '️Owner6 Hinata-Md', true],
-  ['6282195322106', '️Owner Hinata-Md', true]
+  ['6289606790112', '️Owner1 EzaBot-MD', true],
+  ['6289606790112', '️Owner2 EzaBot-MD', true],
+  ['6289606790112', '️Owner3 EzaBot-MD', true],
+  ['6289606790112', '️Owner4 EzaBot-MD', true],
+  ['6281515696780', '️Owner5 EzaBot-MD', true],
+  ['6281515696780', '️Owner6 EzaBot-MD', true],
+  ['6289606790112', '️Owner RezaOfc', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -68,15 +68,15 @@ let keyalpha = api[Math.floor(Math.random() * api.length)]
 global.apikeys = keyalpha
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285171216276'
-global.nomorown = '6282195322106'
-global.namebot = 'Hinata Md'
-global.nameown = 'Owner Hinata Md'
+global.nomorbot = '6281515696780'
+global.nomorown = '6289606790112'
+global.namebot = 'EzaBot-MD'
+global.nameown = 'REZA GANTENG'
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Hinata-Md あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Hinata-Md'
+global.wm = '                「 EzaBot-MD あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘OWNER - KUN˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ EzaBot-MD'
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
@@ -104,11 +104,11 @@ global.thumbnailUrl = [
 ]
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/wudysoft.2'
-global.sgh = 'https://github.com/AyGemuy'
-global.sgc = 'https://chat.whatsapp.com/HAuQGhEBwqFK8CzrrYOwLq'
-global.sdc = 'https://github.com/AyGemuy'
-global.snh = 'https://github.com/AyGemuy'
+global.sig = 'https://instagram.com/itz.reza_official_'
+global.sgh = 'https://github.com/Rezaofc'
+global.sgc = 'https://chat.whatsapp.com/BCgUSCxQltq8SwcpJe1tDf'
+global.sdc = 'https://github.com/Rezaofc'
+global.snh = 'https://github.com/Rezaofc'
 
 /*============== HENTAI ==============*/ 
 //OPTIONS
@@ -378,20 +378,20 @@ global.logo = "https://i.pinimg.com/564x/1d/10/8e/1d108e56fb96be61d9b48f7e17dd95
 global.gcwangsaf = "https://chat.whatsapp.com/HAuQGhEBwqFK8CzrrYOwLq"//Link Group whatsapp
 
 /*============== PAYMENT ==============*/
-global.saweria = "https://saweria.co/wudysoft"// website saweria.co
-global.dana = ["0887435373103"]
-global.pulsa = ["082195322106"]//pulsa here
-global.trakteer = "https://trakteer.id/wudysoft"//Link url https://
-global.paypal = "wudysoft@gmail.com"//paypal email
-global.gopay = "082195322106"//Numver for Payment digital Gopay Gojek
+global.saweria = "-"// website saweria.co
+global.dana = ["089606790112"]
+global.pulsa = ["089606790112"]//pulsa here
+global.trakteer = "-"//Link url https://
+global.paypal = "nb.boruto.official@gmail.com"//paypal email
+global.gopay = "081515696780"//Numver for Payment digital Gopay Gojek
 
 /*============== PAYMENT ==============*/
-global.pdana = '0887435373103'
-global.povo = '082195322106'
-global.pgopay = '082195322106'
-global.ppulsa = '082195322106'
-global.ppulsa2 = '082195322106'
-global.psaweria = 'https://saweria.com/Wudysoft'
+global.pdana = '089606790112'
+global.povo = '-'
+global.pgopay = '081515696780'
+global.ppulsa = '089606790112'
+global.ppulsa2 = '089606790112'
+global.psaweria = '-'
 
 //Rpg
 global.rpg = {
